@@ -1,3 +1,5 @@
-this was my fist copy project
+this was my fist project. It was created in 2022
 
-this was created in 2023
+If have time, I request you to visit my page and see what I got in my guts at the age of 15. 
+
+Site link: https://atikhasan16.github.io/old-portfolio/
